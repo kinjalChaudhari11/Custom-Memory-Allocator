@@ -1,1 +1,1 @@
-# Custom-Memory-Allocator
+ This project implements a custom memory allocator replicating `malloc`, `free`, and `realloc` using a metadata structure, free lists, and block merging for efficient memory reuse. It’s cool because it provides hands-on control over low-level memory management, offering insights into how allocators optimize dynamic memory usage.
